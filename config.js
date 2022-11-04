@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
 
 //documents variants
@@ -14,26 +14,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['51947971935'] //ur owner number
+global.ownername = "🦄WHOISLAUGHTS" //ur owner name
+global.ytname = "YT: WhoIsLaughts" //ur yt chanel name
+global.socialm = "GitHub: WhoIsLaughtsOFF" //ur github or insta name
+global.location = "Peru, Lima, Ate" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213'] //ur number
-global.ownernomer = "916909137213" //ur number
-global.ownertag = '916909137213' //ur tag number
-global.premium = ['916909137213'] //ur premium number
-global.botname = 'Cheems Bot V5' //ur bot name
-global.ownername = "🦄Dream Guy Xeon"
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD5' //script link
+global.owner = ['51947971935'] //ur number
+global.ownernomer = "51947971935" //ur number
+global.ownertag = '51947971935' //ur tag number
+global.premium = ['51947971935'] //ur premium number
+global.botname = 'WHOISLAUGHTS' //ur bot name
+global.ownername = "🦄WHOISLAUGHTS"
+global.linkz = "https://youtube/c/Whoislaughts" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube/c/Whoislaughts" //ur website to be displayed
+global.botscript = 'https://github.com/WhoIsLaughtsOFF/md5' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Cheems Bot" //ur sticker watermark author
-global.wm = "Xeon Bot Inc." //ur watermark
+global.packname = "Sticker By WHOISLAUGHTS" //ur sticker watermark packname
+global.author = "WHOISLAUGHTS" //ur sticker watermark author
+global.wm = "WHOISLAUGHTS" //ur watermark
 
 // Other
 global.sessionName = 'session'
